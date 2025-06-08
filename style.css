@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 :root {
     --primary: #e39105;
 }
 
 body {
-    font-family: 'Poppins';
+    background: url('img/bg-desktop.webp');
+    font-family: Arial;
 }
 
 header{
@@ -62,7 +62,7 @@ header{
 }
 
 .cartao__conteudo__resposta p {
-    color: #fff;
+    color: #000;
     font-weight: 700;
 }
 
